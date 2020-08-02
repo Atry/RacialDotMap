@@ -166,27 +166,27 @@ void setup(){
         }
         
         if (race_type.equals("w")) {
-          pg.stroke(#73B2FF, transparent(level));
+          pg.stroke(#0088BA, transparent(level));
           pg.point(px, py);
         }
           
         if (race_type.equals("b")) {
-          pg.stroke(159,212,0, transparent(level));
+          pg.stroke(#558E00, transparent(level));
           pg.point(px, py);
         }
         
         if (race_type.equals("a")) {
-          pg.stroke(255,0,0, transparent(level));
+          pg.stroke(#E225B9, transparent(level));
           pg.point(px, py);
         }
           
         if (race_type.equals("h")) {
-          pg.stroke(255,170,0, transparent(level));
+          pg.stroke(EE3D00, transparent(level));
           pg.point(px, py);
         }
           
         if (race_type.equals("o")) {
-          pg.stroke(#996633, transparent(level));
+          pg.stroke(#9D7751, transparent(level));
           pg.point(px, py);
         }
        
